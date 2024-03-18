@@ -1,4 +1,4 @@
-# Analysis-of-Netflix-Movies-and-TV-Shows-Dataset
+# Analysis-of-Netflix-Movies-and-TV-Shows-Dataset using Google Sheets
 
 **Introduction:**
 This report presents an analysis of Netflix movies and TV shows dataset conducted using Excel for data cleaning and preparation, followed by analysis in Google Sheets. The objective of this analysis is to gain insights into the content available on Netflix, understand viewership trends, and identify popular genres and regions.
